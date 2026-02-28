@@ -1,3 +1,6 @@
 Linea 1+
 Linea 2: BASE
 Line 3: BASE
+R1
+R1
+R1
